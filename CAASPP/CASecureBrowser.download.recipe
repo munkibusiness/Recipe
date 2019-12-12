@@ -11,7 +11,7 @@
 	<key>Input</key>
 	<dict>
 		<key>DOWNLOAD_URL</key>
-		<string>https://s3.amazonaws.com/air-org/california/SecureBrowsers/CASecureBrowser10.6-2018-11-16-signed.dmg</string>
+		<string>https://air-org.s3.amazonaws.com/california/SecureBrowsers/CASecureBrowser12.0-2019-06-16-signed.dmg</string>
 		<key>NAME</key>
 		<string>CASecureBrowser</string>
 	</dict>
